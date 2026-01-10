@@ -422,15 +422,8 @@ body {
   cursor: pointer;
   color: #555;
 }
-.forgot {
-  font-size: 0.9rem;
-  color: #007bff;
-  cursor: pointer;
-  margin: 0.5rem 0;
-}
-.forgot:hover {
-  text-decoration: underline;
-}
+
+
 .modal {
   display: none; /* This must exist */
   position: fixed;
